@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-bc{
+    background-color: #F5F5F5;
+}
+
+.nav-item-1{
+    padding-left: 200px;
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-family: "Jost";
+    font-weight: 500;
+    padding-top: 20px;
+    color: #224093;
+}
+
+.nav-item-1 a{
+    color: #224093;
+}
+.nav-item{
+    padding-left: 20px;
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: #224093;
+    font-family: "Jost";
+}
+
+.ite-img{
+    padding-left: 30px;
+}
+
+.container-fluid-2{
+    /* padding-right: 50px; */
+    background-color: #FDB915;
+    font-size: 12px;
+    color: black;
+    font-family: "Jost";
+}
+
+.ite-main{
+    height: 340px;
+    padding-left: 10px;
+}
+
+.ite-dis{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
+
+.maiden-text{
+    font-size: 24px;
+    font-weight: 500;
+    color: #224093;
+    padding-left: 10px;
+    font-family: "Jost";
+}
+
+.maiden-text2{
+    font-size: 24px;
+    font-weight: 500;
+    color: #224093;
+    font-family: "Jost";
+}
+
+.spinner-border{
+    margin-left: 200px;
+}
+
+.buy-tick-1{
+    padding-left: 10px;
+}
+
+.buy-tick-2{
+    padding-left: 30px;
+}
+.buy-tick-1 button{
+    padding-left: 205px;
+    padding-right: 205px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #FDB915;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    color: #224093;
+    font-family: "Jost";
+}
+
+.buy-tick-2 button{
+    padding-left: 205px;
+    padding-right: 205px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #F5F5F5;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Jost";
+    color: #224093;
+}
+
+.border-blue{
+    border: 1px solid blue;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:  rgba();
+    background: rgba(85, 118, 207, 0.853);
+}
+
+.venue{
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+    line-height: 50px;
+    font-family: "Jost";
+}
+
+.venue-2{
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+    line-height: 50px;
+    font-family: "Jost";
+}
+
+.poster-div{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.poster-img{
+    height: 125px;
+    padding-left: 10px;
+}
+
+.new-pos{
+    height: 620px;
+    margin-top: -100px;
+    margin-left: 10px;
+}
+
+
+.about-ite{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #224093;
+    padding-left: 10px;
+    font-family: "Jost";
+}
+
+.venue-new{
+    font-size: 72px;
+    font-weight: 800px;
+    line-height: 72px;
+    font-family: "Jost";
+    color: #224093;
+    padding-left: 10px;
+}
+
+.venue-bg{
+    background: url(img/rugby.jpg);
+    height: 460px;
+    padding-left: 15px;
+}
+
+.venue-icc{
+    font-size: 40px;
+    font-weight: 800px;
+    font-family: "Jost";
+    color: #224093;
+    padding-left: 40px;
+}
+
+.speakers{
+    font-size: 72px;
+    font-weight: 800px;
+    line-height: 72px;
+    font-family: "Jost";
+    color: #224093;
+    padding-left: 10px;   
+}
+
+.speakers-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.view-speakers{
+    font-size: 15px;
+    font-weight: 800px;
+    font-family: "Jost";
+    color: #224093;
+    padding-buttom: 50px;
+}
+
+.akin-alabi{
+    font-size: 30px;
+    font-weight: 500px;
+    font-family: "Jost";
+    color: #224093;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.honor{
+    font-size: 18px;
+    font-weight: 400px;
+    font-family: "Jost";
+    color: #224093;
+    padding-left: 50px;
+}
+
+.speakers-neww{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-left: 10px;
+}
+
+.img-size{
+    height: 300px;
+}
+
+.img-size-1{
+    height: 300px;
+}
